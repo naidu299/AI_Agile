@@ -12,6 +12,15 @@ Beginner React Topics
 Code Snippets to Practice
 
 
+------------------------------------------
+ 30-Day Prep Plan (React + JS + HTML/CSS)
+Week	Focus Area	Topics
+1️⃣	JavaScript Core	Variables, Arrays, Objects, Functions, Loops, DOM, Events
+2️⃣	Advanced JS	Closures, Hoisting, this, bind, Promises, async/await, ES6+
+3️⃣	React	JSX, Components, useState, useEffect, Props, Forms, Routing
+4️⃣	Projects & Extras	Mini-projects, Redux/Context, Git/GitHub, API integration, CSS styling
+
+
 
 ----------------------------------------------------------------------------------
 What is React?
