@@ -1,0 +1,224 @@
+Here's a categorized list of essential JavaScript topics,
+ covering beginner to advanced levels.
+  If you're preparing for interviews or building projects, this list will guide your learning:
+
+ Beginner Topics
+📌 Basics
+
+Beginner-Level JavaScript Interview Questions
+🧠 Core Concepts
+What are the different data types in JavaScript?
+
+What is the difference between var, let, and const?
+
+Explain the concept of hoisting.
+
+What is the difference between == and ===?
+
+What is a closure?
+
+What is the difference between null and undefined?
+
+What are truthy and falsy values?
+
+What is a callback function?
+
+Functions & Scope
+What is the difference between function declaration and expression?
+
+What are arrow functions and how are they different from regular functions?
+
+Explain lexical scope in JavaScript.
+Arrays & Objects
+What are some common array methods in JavaScript?
+
+How do you clone an object in JavaScript?
+
+What is the spread operator (...) and rest operator?
+DOM & Events
+How do you select elements in the DOM?
+
+What is event delegation in JavaScript?
+
+Difference between addEventListener and inline events?
+
+Asynchronous JS
+What is the difference between synchronous and asynchronous code?
+
+What are Promises?
+
+Explain async/await. How is it different from Promises?
+
+What is the Event Loop?
+
+What are microtasks and macrotasks?
+
+Memory & Optimization
+What is a memory leak in JavaScript?
+
+How does garbage collection work in JS?
+
+Miscellaneous
+What is the difference between call(), apply(), and bind()?
+
+What is currying in JavaScript?
+
+What is debouncing and throttling?
+
+What are JavaScript modules? (import/export)
+
+What are Immediately Invoked Function Expressions (IIFE)?
+
+Sample Tasks
+Reverse a string or number
+
+Find duplicates in an array
+
+Flatten a nested array
+
+Debounce a function
+
+Implement a map() function manually
+
+Create a simple Promise-based function
+
+Create a counter using closures
+
+
+
+
+
+
+
+
+
+
+
+
+Variables: var, let, const
+
+Data Types: Number, String, Boolean, Null, Undefined, Symbol, BigInt
+
+Operators: Arithmetic, Comparison, Logical, Assignment
+
+Control Structures: if, else, switch
+
+Loops: for, while, do...while, for...of, for...in
+
+Functions: Declaration, Expression, Arrow Functions
+
+Scope & Block: Global vs Local
+
+📌 Arrays & Strings
+Array Methods: push, pop, shift, unshift, slice, splice, map, filter, reduce, forEach
+
+String Methods: includes, replace, split, substring, toUpperCase
+
+🟡 Intermediate Topics
+📌 Objects
+Object Creation: Literal, Constructor
+
+Object Methods, this keyword
+
+Destructuring
+
+Spread/Rest Operators
+
+📌 DOM Manipulation
+Selecting Elements: getElementById, querySelector
+
+Changing content/styles
+
+Event Listeners: click, submit, keyup, etc.
+
+Creating & removing elements dynamically
+
+📌 Event Loop
+Call Stack
+
+Event Queue
+
+Microtasks vs Macrotasks
+
+📌 ES6+ Features
+let, const
+
+Arrow Functions
+
+Template Literals
+
+Default Parameters
+
+Destructuring
+
+Spread/Rest
+
+Modules (import, export)
+
+🔵 Advanced Topics
+📌 Asynchronous JavaScript
+Callbacks
+
+Promises
+
+async/await
+
+Error handling with try/catch
+
+Chaining Promises
+
+📌 Closures & Lexical Scope
+Nested Functions
+
+Data Privacy using Closures
+
+📌 Hoisting
+Variable & Function Hoisting
+
+Temporal Dead Zone
+
+📌 this Context
+In objects, functions, arrow functions
+
+call, apply, bind
+
+📌 Prototypes & Inheritance
+Prototype Chain
+
+Object.create
+
+ES6 Classes vs Constructor Functions
+
+📌 JavaScript in the Browser
+Local Storage & Session Storage
+
+Cookies
+
+Fetch API / AJAX
+
+Debounce & Throttle
+
+🔴 Expert Topics
+📌 Memory Management
+Garbage Collection
+
+Leaks & Optimization
+
+📌 Design Patterns in JS
+Singleton, Factory, Observer, Module, MVC
+
+📌 Functional Programming
+Pure Functions
+
+Higher-Order Functions
+
+Currying, Composition
+
+📌 Web APIs
+fetch, navigator, geolocation, WebSockets, etc.
+
+📌 Testing
+Unit testing with Jest / Mocha
+
+Writing Testable Code
+
